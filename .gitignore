@@ -1,3 +1,7 @@
 */.ipynb_checkpoint*
 .DS_Store
 .ipynb_checkpoint*
+outputs/*
+lib/__pycache__/*
+__pycache__/*
+datasets/processing/*
